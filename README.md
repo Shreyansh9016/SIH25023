@@ -1,7 +1,9 @@
 # 🌿 AYURSUTRA  
 
 AYURSUTRA is an integrated digital solution designed to streamline Ayurvedic therapy management by combining automation, patient engagement, and intelligent recommendations.  
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/280c4bdc-f8c9-4859-ab8f-71a5dd676095"  width="1800"/>
+</p>
 ---
 
 ## 📱 WhatsApp ChatBot  
